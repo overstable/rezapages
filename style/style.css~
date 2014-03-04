@@ -85,7 +85,7 @@ ol li
 { width: 890px;
   position: relative;
   height: 200px;
-  background: url(logo-890x200.png) no-repeat;}
+  background: url(logo-890x200.jpg) no-repeat;}
 
 #logo #logo_text 
 { position: absolute; 
